@@ -2,6 +2,7 @@
   "name": "discuss",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://viveksai26.github.io/RNapp/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.12.0",
